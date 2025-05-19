@@ -35,9 +35,9 @@ The **GatePass Management System** is a modern access control solution designed 
 
 ### **Backend**  
 - **Python (Django/Flask)** – Core backend logic  
-- **Face Recognition (OpenCV, Dlib, or DeepFace)** – AI-based facial authentication  
-- **PostgreSQL/MySQL** – Database for storing employee/visitor records  
-- **Celery & Redis** – For async tasks (email alerts, report generation)  
+- **Face Recognition (OpenCV,** – AI-based facial authentication  
+- /MySQL** – Database for storing employee/visitor records  
+- **Celery  (email alerts, report generation)  
 
 ### **Frontend (Optional Web Dashboard)**  
 - **React.js – Interactive admin panel  
